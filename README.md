@@ -55,7 +55,7 @@ The app is built using **Python**, **Pandas**, and **Streamlit**, with a clean f
 
 ---
 
-## 🧮 OEE Calculation Logic
+##  OEE Calculation Logic
 
 The dashboard uses the standard OEE formula:
 Where:
@@ -66,7 +66,7 @@ Where:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 oee-dashboard/
 │
@@ -76,20 +76,20 @@ oee-dashboard/
 └── README.md                  # Documentation
 ```
 
-## ⚙️ Installation
+##  Installation
 
-### 1️⃣ Clone the Repository
+### 1- Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/oee-dashboard.git
 cd oee-dashboard
 ```
 
-### 2️⃣ Install Dependencies
+### 2- Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-### 3️⃣ Run the Application
+### 3- Run the Application
 ```bash
 streamlit run app.py
 ````
